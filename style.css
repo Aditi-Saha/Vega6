@@ -41,7 +41,7 @@ body {
 }
 
 .hero-section {
-  background-image: url("../xyzz.png");
+  background-image: url("xyzz.png");
   text-align: center;
   padding: 60px 20px 0;
   position: relative;
@@ -149,7 +149,7 @@ body {
 
 
 .glow-divider{
- background: url('../lineimgs.png') no-repeat center top;
+ background: url('lineimgs.png') no-repeat center top;
  background-size: cover; /* or 'contain' if you want it to fit without stretching */
 }
 
@@ -343,7 +343,7 @@ body {
 }
 
 .card {
-  background: url(../Maskgroup.png);
+  background: url("maskgroup.png");
   background-size: cover; /* or 'contain' depending on your needs */
     background-position: center center; /* adjust as needed */
     background-repeat: no-repeat;
@@ -424,7 +424,7 @@ body {
   justify-content: center;
   gap: 24px;
   flex-wrap: wrap;
-  background: url("../testimonialsbg.png");
+  background: url("testimonialsbg.png");
 }
 
 .testimonial-card {
